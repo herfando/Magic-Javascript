@@ -58,5 +58,5 @@ All files are in **root folder**, easy to navigate, contribute, and learn step b
 
 ## 📌 Installation
 
-```bash
+````bash
 npm install magicjs
