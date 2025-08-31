@@ -1,22 +1,12 @@
 // ===== Variables =====
-let name = "Herfando";        // variable that can be reassigned
-const pi = 3.14;              // constant value
-var age = 25;                 // older style variable
+let myVariable = 10;        // myVariable is a variable that can be reassigned
+const myConstant = 3.14;    // myConstant is a constant, cannot be reassigned
+var oldVariable = "text";   // oldVariable is function-scoped, older way
 
 // ===== Data Types =====
-let number = 100;             // Number
-let text = "Hello JS";        // String
-let flag = true;              // Boolean
-let nothing = null;           // Null
-let undef;                    // Undefined
-let symbolVar = Symbol("id"); // Symbol
-
-// ===== Operators =====
-let a = 10;
-let b = 5;
-console.log(a + b);           // Addition
-console.log(a - b);           // Subtraction
-console.log(a * b);           // Multiplication
-console.log(a / b);           // Division
-console.log(a % b);           // Modulo
-console.log(a ** b);          // Exponent
+let number = 100;           // Number type
+let text = "Hello JS";      // String type
+let isTrue = true;          // Boolean type
+let nothing = null;         // Null
+let undef;                  // Undefined
+let symbolVar = Symbol("id"); // Symbol type
