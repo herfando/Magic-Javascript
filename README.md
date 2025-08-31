@@ -1,4 +1,4 @@
-# ✨ MagicJS ✨
+# ✨ <img src="assets/magic-title.gif" width="40"/> MagicJS ✨
 > _Make JavaScript magical!_ 🌟✨🪄
 
 ![Magic GIF](assets/magic.gif)
