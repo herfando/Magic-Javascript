@@ -1,9 +1,11 @@
 # ✨ MagicJS ✨
-![Magic Animation](https://media.giphy.com/media/3o7aD6tFTtTmUQ2X3O/giphy.gif)
+> _Make JavaScript magical!_ 🌟✨🪄
 
-**MagicJS – Membuat JavaScript Lebih Mudah & Magis!**
+![Magic GIF](assets/magic.gif)
 
-> 🚀 Unlock the full power of JavaScript dengan **MagicJS**. Library ini menyediakan kumpulan **materi, utilitas, dan contoh kode** yang membuat belajar JS lebih cepat, menyenangkan, dan “magis”.
+**MagicJS – Library JavaScript yang Membuat Belajar & Menggunakan JS Menjadi Magis!**
+
+> 🚀 Unlock the full power of JavaScript dengan **MagicJS**. Library ini menyediakan kumpulan **materi, utilitas, dan contoh kode** yang membuat belajar JS lebih cepat, menyenangkan, dan penuh “magis”.
 
 ---
 
@@ -11,8 +13,8 @@
 - ⚡ **Cepat & Ringan** – performa maksimal tanpa beban  
 - ✨ **API Intuitif** – mudah diingat dan digunakan  
 - 📚 **Materi Lengkap JavaScript** – dari dasar hingga lanjutan  
-- 🛠️ **Fungsi Serbaguna** – untuk segala kebutuhan pengembangan  
-- 💡 **Modern & Fleksibel** – cocok untuk project apa pun
+- 🛠️ **Fungsi Serbaguna** – untuk berbagai kebutuhan pengembangan  
+- 💡 **Modern & Fleksibel** – cocok untuk project apa pun  
 
 ---
 
