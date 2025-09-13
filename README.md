@@ -1,9 +1,15 @@
 # <img src="assets/magic-title.gif" width="50"/> <marquee behavior="scroll" direction="left">✨ MagicJS ✨</marquee>
 > _Learn JavaScript from Basics to Expert, all in one place!_ 🌟
 
-![Magic GIF](assets/magic.gif)
-[![GitHub License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
-[![Beginner → Expert](https://img.shields.io/badge/Level-Beginner%20→%20Expert-blue?style=flat-square)](https://github.com/herfando/MagicJS)
+<p align="center">
+  <img src="assets/magic.gif" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Level-Beginner%20→%20Expert-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Interactive%20&%20Fun-%E2%9C%A8-orange?style=flat-square"/>
+</p>
 
 **MagicJS** is a full **JavaScript learning library** with **interactive examples, modern patterns, utilities, and mini projects**.  
 All files are in **root folder**, easy to navigate, contribute, and learn step by step.
@@ -48,15 +54,16 @@ All files are in **root folder**, easy to navigate, contribute, and learn step b
 - ⚡ Lightweight & Fast – minimal code, maximum learning  
 - 📚 Complete JS Material – from beginner → expert  
 - 🛠️ Reusable utility functions & helpers  
-- 🎨 Interactive GIFs and animations  
+- 🎨 Interactive GIFs and animations for every topic  
 - 💡 Modern JS, Async, OOP, Web APIs  
 - 🔒 Security best practices included  
 - 🧪 Testing & Debugging examples  
 - 🎁 Mini project templates ready for practice  
+- ✨ Animations & live examples for visual learning  
 
 ---
 
 ## 📌 Installation
 
-````bash
+```bash
 npm install magicjs
